@@ -15,7 +15,7 @@ botrole = 1094750630674960424, "Bot", "Bots"
 logschannelid = 1094781943633154149
 
 #Miscellaneous
-token = "OTk3MjA2MTE2ODYzODUyNzA2.GSiZpf.mGbHqB7OKgdn3qyNJWj09umv8lDwamKqIgxG7c"
+token = "OTk3MjA2MTE2ODYzODUyNzA2.GnE0Ne.7oaCCgye-B8jS8dNKvfqoAZu4VuNfBwQJzZS5g"
 overwritepermsforlocking = nextcord.PermissionOverwrite()
 overwritepermsforlocking.send_messages = False
 

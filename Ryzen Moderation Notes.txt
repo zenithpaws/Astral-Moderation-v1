@@ -1,4 +1,4 @@
-Token | OTk3MjA2MTE2ODYzODUyNzA2.GSiZpf.mGbHqB7OKgdn3qyNJWj09umv8lDwamKqIgxG7c
+Token | OTk3MjA2MTE2ODYzODUyNzA2.GnE0Ne.7oaCCgye-B8jS8dNKvfqoAZu4VuNfBwQJzZS5g
 
 https://discord.com/api/oauth2/authorize?client_id=997206116863852706&permissions=8&scope=bot
 https://discord.com/api/oauth2/authorize?client_id=997206116863852706&permissions=8&redirect_uri=https%3A%2F%2Fdiscord.com%2Fapi%2Foauth2%2Fauthorize%3Fclient_id%3D997206116863852706%26permissions%3D8%26scope%3Dbot&response_type=code&scope=identify%20voice%20activities.read%20bot%20rpc%20rpc.activities.write%20applications.commands%20role_connections.write%20guilds%20connections
